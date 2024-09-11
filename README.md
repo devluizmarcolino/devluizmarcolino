@@ -1,8 +1,40 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=devluizmarcolino&show_icons=true&title_color=eb4034&text_color=eb4034&icon_color=783c00&bg_color=f5f0f0&cache_seconds=2300" alt="ilustração do status do github">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devluizmarcolino&color=red" alt="Profile views" /> </p>
+## Olá, meu nome é Luiz Marcolino!
 
-### Olá, meu nome é Luiz Marcolino!
+### ⚙️ GitHub Analytics
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=devluizmarcolino&color=eb4034&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluizmarcolino&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=devluizmarcolino&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
-<p>Eu sou desenvolvedor Front-End, <br> Transformando códigos em obras de artes! :></p>
+--- 
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=devluizmarcolino&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
