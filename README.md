@@ -4,5 +4,7 @@
 
 ### Minhas Tecnologias:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css&theme=light)](https://github.com/devluizmarcolino)
+##### Tecnologias que estou estudando:
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind&theme=light)](https://github.com/devluizmarcolino)
 #### Outras Ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,github&theme=light)](https://github.com/devluizmarcolino)
