@@ -1,4 +1,4 @@
-## E aí, eu me chamo Luiz H. Marcolino! 🏁
+# E aí, eu me chamo Luiz H. Marcolino! 🏁
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devluizmarcolino&show_icons=true&theme=light)
 
