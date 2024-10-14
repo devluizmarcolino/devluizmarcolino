@@ -18,6 +18,6 @@ Eu sou um desenvolvedor front-end em formação, faço trabalhos como landing pa
 
 ---
 
-## GitHub Stats ⭐
+## GitHub Stats 🌟
 
 [![card](https://github-readme-stats.vercel.app/api?username=devluizmarcolino&theme=default)](https://github.com/anuraghazra/github-readme-stats)
