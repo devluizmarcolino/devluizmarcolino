@@ -1,23 +1,16 @@
-## Olá, meu nome é Luiz H. Marcolino! 🖖
+# E aí, desenvolvedores! :dart:
 
-Eu sou um desenvolvedor front-end em formação, faço trabalhos como landing pages, páginas únicas ou o que você precisar para o seu negócio. Atualmente possuo várias certificações na área de desenvolvimento web.  
+<img src="https://placehold.co/200x150" width="200px" align="right" >
 
-💬 Você pode se conectar comigo através de uma dessas redes sociais 👇
+- :computer: Desenvolvedor Front-End
+- :mortar_board: Certificações na área de tecnologia
 
-<a href="https://linkedin.com/in/luizhenriquemarcolino/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+Sou um Desenvolvedor Front-End em formação, trabalho como freelance há mais de 4 meses e como desenvolvedor front-end voluntário na Artificial Universe.
 
----
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/luizhenriquemarcolino/)
 
-## Minhas Skills 🚀
+## Skills e Ferramentas:
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+![Skills](https://skillicons.dev/icons?i=html,css,js,figma,vscode,vercel,git,github)
 
-
-
----
-
-## GitHub Stats 🌟
-
-[![card](https://github-readme-stats.vercel.app/api?username=devluizmarcolino&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=devluizmarcolino&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
