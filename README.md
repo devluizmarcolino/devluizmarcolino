@@ -1,7 +1,5 @@
 # E aí, desenvolvedores! :dart:
 
-<img src="https://placehold.co/200x150" width="200px" align="right" >
-
 - :computer: Desenvolvedor Front-End
 - :mortar_board: Certificações na área de tecnologia
 
