@@ -1,4 +1,4 @@
-# E aí, desenvolvedores! :dart:
+# E aí, seres humanos! :dart:
 
 - :computer: Desenvolvedor Front-End
 - :mortar_board: Certificações na área de tecnologia
