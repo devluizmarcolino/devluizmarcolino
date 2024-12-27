@@ -1,14 +1,9 @@
-# E aí, pessoal! :dart:
+# 🤖 Luiz H. Marcolino
 
-- :computer: Desenvolvedor Front-End
-- :mortar_board: Certificações na área de tecnologia
+**`Desenvolvedor Front-End`**
 
-Sou um Desenvolvedor Front-End em formação, trabalho como freelance há mais de 4 meses e como desenvolvedor front-end voluntário na Artificial Universe.
+Me chamo Luiz Henrique Marcolino, tenho 19 anos e sou de Vitória de Santo Antão, interior de Recife-PE. Estou concluindo o ensino médio neste ano e vou começar a cursar Análise e Desenvolvimento de Sistemas na UNINASSAU. 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/luizhenriquemarcolino/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7831D&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Estou+recebendo+propostas!+%F0%9F%98%86)](https://git.io/typing-svg)
 
-## Skills e Ferramentas:
-
-![Skills](https://skillicons.dev/icons?i=html,css,js,figma,vscode,vercel,git,github)
-
-![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=devluizmarcolino&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+[![GitHub Streak](https://streak-stats.demolab.com?user=devluizmarcolino&theme=transparent&hide_border=verdadeiro&locale=pt_BR&short_numbers=falso&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
