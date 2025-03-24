@@ -1,4 +1,4 @@
-# 💫 About Me:
+Sobre mim
 Sou um desenvolvedor front-end apaixonado por criar interfaces modernas e funcionais.<br>Também sou fundador da Voltare, onde busco inovação e excelência no digital.<br><br>Bora trocar uma ideia? 🤝<br>Se quiser bater um papo sobre tecnologia, projetos ou qualquer coisa legal, só chamar! 😃
 
 
